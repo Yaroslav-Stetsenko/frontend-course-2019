@@ -30,7 +30,7 @@ nav {
 }
 
 .section-blok2 {
-  padding: 50px 0px;
+  padding: 50px 1px;
 }
 
 .blok-text {
@@ -42,20 +42,20 @@ nav {
 
 h1 {
   font-size: 60px;
-  margin: 15px 0px;
+  margin: 15px 1px;
 }
 
 h3 {
-  margin: 15px 0px;
+  margin: 15px 1px;
   font: 400 24px Montserrat;
 }
 
 .img-big {
-  margin: 0px 30px;
+  margin: 1px 30px;
 }
 
 p {
-  margin: 0px 0px 30px;
+  margin: 1px 1px 30px;
 }
 
 .Contact-inf {
@@ -64,7 +64,7 @@ p {
 
 .home {
   display: flex;
-  margin: 0px 0px 30px;
+  margin: 1px 1px 30px;
 }
 
 .img-cont {
@@ -87,7 +87,7 @@ p {
 }
 
 .Contact-text p {
-  margin: 0px 0px 15px;
+  margin: 1px 1px 15px;
 }
 
 .input_knopka {
@@ -100,13 +100,13 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0px;
+  margin: 1px;
   border: none;
 }
 
 .knopka {
   display: flex;
-  margin: 15px 0px;
+  margin: 15px 1px;
 }
 
 .input_knopka-2 {
@@ -140,7 +140,7 @@ p {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 50px 0px;
+  margin: 50px 1px;
 }
 
 .text-about {
@@ -170,12 +170,12 @@ tr {
   background: #FE7E11;
   height: 3px;
   border: none;
-  margin: 0px;
+  margin: 1px;
 }
 
-.line-big::after {
-  background-image: url(img/circle.png);
-  background-color: #c7b39b;
+.line-big:after {
+  background-image: url("img/circle.png");
+  background-color: #C7B39D;
 }
 
 .line-small {
@@ -186,7 +186,7 @@ tr {
 
 fieldset {
   border: none;
-  padding: 0px;
+  padding: 1px;
 }
 
 .input_knopka-3 {
@@ -199,7 +199,7 @@ fieldset {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0px;
+  margin: 1px;
   border: none;
 }
 
@@ -234,7 +234,7 @@ footer {
 }
 
 .footer_text {
-  margin: 0px;
+  margin: 1px;
   font: 500 14px Open Sans;
 }
 
